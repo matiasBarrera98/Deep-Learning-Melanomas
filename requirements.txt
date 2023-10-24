@@ -13,7 +13,7 @@ colorama==0.4.6
 comm==0.1.4
 contourpy
 cycler==0.11.0
-debugpy==1.8.0
+debugpy
 decorator==5.1.1
 exceptiongroup==1.1.3
 executing==1.2.0
